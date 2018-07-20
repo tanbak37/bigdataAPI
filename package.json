@@ -18,8 +18,12 @@
   },
   "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
   "dependencies": {
+    "assert": "^1.4.1",
     "body-parser": "^1.17.2",
+    "cassandra-driver": "^3.5.0",
+    "ejs": "^2.6.1",
     "express": "^4.15.3",
-    "request": "^2.81.0"
+    "postman-request": "^2.86.1-postman.1",
+    "request": "^2.87.0"
   }
 }
